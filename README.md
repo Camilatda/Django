@@ -39,6 +39,4 @@ Este projeto foi desenvolvido para fins educacionais, demonstrando:
 - Estilização com Tailwind CSS
 - Integração com SQLite
 
-## 📄 Licença
-
 Projeto desenvolvido para fins acadêmicos.
