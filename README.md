@@ -62,6 +62,8 @@ Projeto desenvolvido para fins acadêmicos.
 <img width="1600" height="837" alt="97ea90d9-27b6-48d9-b957-358334c93714" src="https://github.com/user-attachments/assets/27f7e987-b84f-4e37-aac9-32138c5200a3" />
 
 - Parte 03
+<img width="1876" height="985" alt="image" src="https://github.com/user-attachments/assets/dcb7a265-bd73-4174-b918-7093422c9128" />
+
 <img width="1876" height="988" alt="image" src="https://github.com/user-attachments/assets/9f1d76ed-6630-45ba-8675-82ac5cbc51e7" />
 
 <img width="1877" height="990" alt="image" src="https://github.com/user-attachments/assets/69f91709-639e-4b6d-97e6-8a2f8c7e546c" />
@@ -70,7 +72,20 @@ Projeto desenvolvido para fins acadêmicos.
 
 <img width="1875" height="994" alt="image" src="https://github.com/user-attachments/assets/3688d429-302d-4e91-b525-dbabc4286c13" />
 
-<img width="1876" height="985" alt="image" src="https://github.com/user-attachments/assets/dcb7a265-bd73-4174-b918-7093422c9128" />
+- Parte 04
+<img width="1877" height="996" alt="image" src="https://github.com/user-attachments/assets/1268d2f3-90c5-4ed8-8d49-d986e08ba4a3" />
+
+<img width="1875" height="988" alt="image" src="https://github.com/user-attachments/assets/4daf2a45-4883-4b6e-9cba-ac868999425a" />
+
+<img width="1876" height="990" alt="image" src="https://github.com/user-attachments/assets/f1470493-350e-46c5-aa2b-5e584eb9d118" />
+
+<img width="1875" height="988" alt="image" src="https://github.com/user-attachments/assets/c4c04c32-b878-4aea-aca3-abdf1f5435a1" />
+
+<img width="1875" height="983" alt="image" src="https://github.com/user-attachments/assets/d11d3593-056c-4959-8e41-b8e32e66cd49" />
+
+
+
+
 
 
 
