@@ -88,6 +88,19 @@ Projeto desenvolvido para fins acadêmicos.
 
 <img width="1874" height="946" alt="image" src="https://github.com/user-attachments/assets/ac24c2ac-a566-41d3-8959-a209f6f99a59" />
 
+- Parte 06
+<img width="1877" height="990" alt="image" src="https://github.com/user-attachments/assets/eed2ed3b-8263-4269-82ac-afb884a5608e" />
+
+<img width="1873" height="994" alt="image" src="https://github.com/user-attachments/assets/177852c7-0f4d-4ebe-8be7-215dceff948d" />
+
+<img width="1871" height="994" alt="image" src="https://github.com/user-attachments/assets/5e446f2f-a5f8-4b2d-afbb-d0ab159d01ae" />
+
+<img width="1877" height="993" alt="image" src="https://github.com/user-attachments/assets/aa43d9ba-4333-4e89-960e-0f74c49c8c0c" />
+
+
+
+
+
 
 
 
