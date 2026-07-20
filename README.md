@@ -83,6 +83,13 @@ Projeto desenvolvido para fins acadêmicos.
 
 <img width="1875" height="983" alt="image" src="https://github.com/user-attachments/assets/d11d3593-056c-4959-8e41-b8e32e66cd49" />
 
+- Parte 05
+<img width="1875" height="986" alt="image" src="https://github.com/user-attachments/assets/95e22f19-1274-42bb-a110-7824e18e8e56" />
+
+<img width="1874" height="946" alt="image" src="https://github.com/user-attachments/assets/ac24c2ac-a566-41d3-8959-a209f6f99a59" />
+
+
+
 
 
 
